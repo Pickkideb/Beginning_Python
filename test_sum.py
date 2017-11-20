@@ -25,5 +25,5 @@ else:
         total_min += (int(arr[j]) if int(arr[j]) != int(max_val) else 0)
 
 print(total_min, total_max)
-
+# commented
 print("sample_check")
